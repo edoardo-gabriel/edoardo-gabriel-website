@@ -21,7 +21,7 @@ PygmentsStyle = "monokai"
     I am interested in applying empirical IO methods to public economics."""
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
+  disableReadOtherPosts = true
 
   # Enable sharing buttons, if you like
   enableSharingButtons = false
