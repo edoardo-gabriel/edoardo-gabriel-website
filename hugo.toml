@@ -1,0 +1,77 @@
+baseURL = "https://edoardogabriel.com/"
+languageCode = 'en-us'
+title = 'Edoardo Gabriel'
+theme = 'hello-friend-ng'
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  enableThemeToggle = true
+
+  enableReadingTime = false
+
+  # Subtitle for home
+  homeSubtitle = """Second year PhD student in Economics at the University of Wisconsin-Madison.
+    I am interested in applying empirical IO methods to public economics."""
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = false
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = false
+
+  # Metadata mostly used in document's head
+  #description = "My new homepage or blog"
+  #keywords = "homepage, blog"
+  #images = [""]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[[menu.main]]
+    identifier = "teaching"
+    name       = "Teaching"
+    url        = "/posts/teaching"
+  [[menu.main]]
+    identifier = "research"
+    name       = "Research"
+    url        = "/posts/research"
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "/posts/cv"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/posts/about me"
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/posts/contact"
+
+[params.portrait]
+    path     = "/images/headshot.jpeg"
+    alt      = "Portrait"
+    maxWidth = "300px"
+
+[params.logo]
+    logoMark     = " "
+    logoText     = "Edoardo Gabriel"
+    logoHomeLink = "/"
+    logoCursorDisabled = true
+    logoCursorColor    = "#C5050C"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    logoCursorAnimate  = "1s"
+    # Append the current url pathname to logoText 
+    #logoCursorPathname = true
