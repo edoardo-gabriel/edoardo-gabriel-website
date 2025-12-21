@@ -61,7 +61,7 @@ PygmentsStyle = "monokai"
     url        = "/posts/contact"
 
 [params.portrait]
-    path     = "/images/headshot.jpeg"
+    path     = "/images/headshot_small.jpg"
     alt      = "Portrait"
     maxWidth = "300px"
 
