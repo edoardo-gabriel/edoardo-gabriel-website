@@ -18,7 +18,7 @@ PygmentsStyle = "monokai"
 
   # Subtitle for home
   homeSubtitle = """Second year PhD student in Economics at the University of Wisconsin-Madison.
-    I am interested in applying empirical IO methods to public economics."""
+    My research interests include education and health economics."""
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = true
