@@ -8,8 +8,6 @@ math: true
 
 email: [egabriel2@wisc.edu](mailto:egabriel2@wisc.edu)
 
-phone: +1 (608) 852-0206
-
 ---
 
 Office 7439

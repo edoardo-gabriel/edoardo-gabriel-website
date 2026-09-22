@@ -11,7 +11,7 @@ math: true
 
 **PhD Student in Economics**
 
-**Madison, WI, U.S.** | [egabriel2@wisc.edu](mailto:egabriel2@wisc.edu) | (+1) 608 852-0206  
+**Madison, WI, U.S.** | [egabriel2@wisc.edu](mailto:egabriel2@wisc.edu) 
 
 ---
 
